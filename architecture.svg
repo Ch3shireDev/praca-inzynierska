@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   contentStyleType="text/css"
+   height="343px"
+   preserveAspectRatio="none"
+   style="width:1085px;height:343px;background:#FFFFFF;"
+   version="1.1"
+   viewBox="0 0 1085 343"
+   width="1085px"
+   zoomAndPan="magnify"
+   id="svg178"
+   sodipodi:docname="architecture.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:export-filename="architecture.png"
+   inkscape:export-xdpi="448.08176"
+   inkscape:export-ydpi="448.08176"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview180"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5771414"
+     inkscape:cx="708.24341"
+     inkscape:cy="223.82267"
+     inkscape:window-width="3840"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg178" />
+  <defs
+     id="defs2" />
+  <g
+     id="elem_resourceGroup">
+    <rect
+       fill="#ffffff"
+       height="127.7344"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:none;stroke-width:0.5"
+       width="146"
+       x="7"
+       y="119"
+       id="rect4" />
+    <image
+       height="70"
+       width="70"
+       x="45"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAADU0lEQVR4Xu2az47UMAzG9/F5hXmFfYVIXLnMgTNST4gDEqw4IMQBqVj1EDL+HNf5287Cp08r7TSN/UvsbHfUp/XV6Ul+8Pj6t5GWrz/lR7NUFNqF9PLj1/P7L5d3n8OHb/LaeFFQCk0JUBrymqZ9JJ4xWl4eLMJIoxOYHAGykK4fv6fT+SftKK4OYUpMjkukI1Ht4kTRRZXdIjuNHJhEim1jW9w1SBhXWG2wOyQPzCW/PN2lVj5a9MINqe7mOXIudDyNb0hv3n7CQcK4xX5RV7R0oDj3VBMCD/6LZFC1VBplwzzslnXJlRInryMhWEeYQWBp5jxAQWI3tg1ioOU9JaL0MGe+lEWqXkhjc9AtUTBnvtQTqQgmdV0szJkv9UGqhkktJzU1FgmTa7GcPaNRSF02B+0MjTnzpUqkQTCpdxPAnPlSDRKGH2cZ+4+6IWHIOZZ59ELCSNOMDzF9kGheetqlnxhynCkiJYPfefREYk8AoxAxmRlIbMyji/nBNE1mHtKI7VKfR6cidQQLW9uoPgCpEQwrTfgwJDZmbNuGYR+MFNzbpbaN6uORdsHSA9rjsyCxEcZTacLhVEjs0koTDidEonv5G0YM5HE4FVLsKP61jiqcByk9IeKHFdsVzoCEx50YUAQWjkVCGBWJ7TwwwlFINCDHk0Ni725XOATJgNlFCnt1GCYj7cJ4kNg5sDANyQnjR2Jjg4UJSHbbqMbUbafbFUYjlcKwMeldxzoM45DqYNiYsdMEFgYhrRsV5uo05uo3JtMNad3mqgPDRHdN+7NoX7WufZFYy/afD+ZtGDO2fYVvWFP1R2Jh3oYxacMyEmgU0lpSh5i3an9czJkvtSKxPGCYfWqjbVQNR2ItZoMhRrTdNqomIbFyVEjClvf7VIPU8iqHWocIs5RUmhA+B1pI8V2WS9sLN8t9HaYwLdNei164SYembllORJIj3FryL1HqSDgu9bP2fqJTXIfBfUCjXhzvckoksZs5tzRYtXZh2LGYb0iscP/+dM4tnVAk50KLYr5DYnlWRd4zRhhXWG0HBWndahfvj245LYpknAdGGjoSS933ye2kloxd+RYSSzQYbvRopdE9fwP2kVi8Wp4Zu4vX1F8dXqQH0n+kR9ArRPoNcjcfxsewqxcAAAAASUVORK5CYII="
+       y="129"
+       id="image6" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="78"
+       y="213.5332"
+       id="text8"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="74"
+       x="17"
+       y="233.2188"
+       id="text10">Resource</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="91"
+       y="233.2188"
+       id="text12"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="48"
+       x="95"
+       y="233.2188"
+       id="text14">Group</text>
+  </g>
+  <g
+     id="elem_appServicePlan">
+    <rect
+       fill="#ffffff"
+       height="127.7344"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:none;stroke-width:0.5"
+       width="150"
+       x="213"
+       y="37"
+       id="rect17" />
+    <image
+       height="70"
+       width="70"
+       x="253"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAAC+UlEQVR4Xu2asWrcQBCG/Sz3CnkFv4Jf4V7hniCgLm1UupXbdAdp3YRgXAQcuCKEFAE7pAjBRcD50ch7OxpJ2Z0dafcUD19hDm71f9q92dWdz55WV2f9F06/jkofvv5qbu6XYf/55+Hh0YthWZ0SLiAvPCuw4knMqlNacoocPIlZvSiZwpOY1f+ntHv3ZXt1OH/7SQ3eXr3/JkfOo4RAm9cfX725pT9SuLi8k+PzJGY1qoQQiIIbjG5L0Ctq5FzxJGY1qrRpb63zAfSiGqzAnEq4oxTCVwJYhDJrIFi9OZWaoVkCMmg4mWepee4N9fV354PuJ4OGg6EyKwFaZtSIU5bcZmiK8iiBxE0JYPXKXpdTaVZ4ErN6UTKFJzGrTol20oXhScxqSgkf6/Pk092m7Zmyg2dQogMEeje2I/yN1iezRiGteBKzGlWCDPCPDiSpRm5NPIlZDSvhjlIIX2mfdiCSzxc8iVkdlaDhGDu2yqDhQMm/BOBJzGpYiWapt/Ca5IeLzErUDyjHvv0gpRzz8N7e+BmUnFU6aOK4I3J8nsSsppQINPEUBmUIHFnA4eER/Pj9hwfT17+VDIHeBHW7wtPdFlKSAhMkinVKtBfNgUwcAt6otppXSWaNQveDzYxKMqIChdVcSjKcmtgVOIuSjJVCHbmD2SvJTOlg++Kxp+o0lACPPVVHJTlKUYRPlKWSPA0ZUgd/omyUZAJzquC1l6okrz0fPPlo6ZXkJecmcNtVKsnrLUDdPo/w/AOlUZIXW5hpt5NUIvYj/7ITrSSHzshgZz9tpd2QVZySHLEEeitwDUrAfwBZiZK//CKU5EBF4SZqPUrubBGntL06FItrEutRap5/3YlQqtrfAovFdYj1KClnqeS15w6ycUpVwROlaeJEmRO18555o5WqIifKP+ZplEqbKH+KlEqlWfW+NFcqlWMlv2PRK1W5rXb8mcJVp4SmLhMHkkXMbayyOiXo6ibKQcdhd8mLyztbtu201AE/UXdKa6oVKv0Frk1QQQD6IZAAAAAASUVORK5CYII="
+       y="47"
+       id="image19" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="286"
+       y="131.5332"
+       id="text21"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="31"
+       x="223"
+       y="151.2188"
+       id="text23">App</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="254"
+       y="151.2188"
+       id="text25"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="57"
+       x="258"
+       y="151.2188"
+       id="text27">Service</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="315"
+       y="151.2188"
+       id="text29"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="34"
+       x="319"
+       y="151.2188"
+       id="text31">Plan</text>
+  </g>
+  <g
+     id="elem_azureSql">
+    <rect
+       fill="#ffffff"
+       height="127.7344"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:none;stroke-width:0.5"
+       width="102"
+       x="237"
+       y="200"
+       id="rect34" />
+    <image
+       height="70"
+       width="70"
+       x="253"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAAD/0lEQVR4Xu2aPY7bMBCFdcm9Aq/gK/gKLtM6bboAadNskTYBtgiCFAGSRYogSBFA+8SxuaN5JC1SlNdaaPCwMKgROR9/hjTXXf/qrLMF67cNaQ22Ia3BNqQ12OJIj3//Qw+//mmhxPq1s6WQEPf7L7+Pn37mdf/tT3O8xkh5ksPHH1HhUUOwZkiIiWE4+oxagbVBwvypYIgK42xrL7QGSBgcjmyO0EG2jRKbi9RkZLT2H75D6Cbb0mSbhdSERxhY1WNVj1Qx3zjuvOrWVSUSUhNHzOIoS2UbnmCVSBx9KwajikVVg4RZvhBAVKWbVQ3S1WBESEI2gqwVI2GIuNWlZYPI2lSkcHjj9pbT7t1XUVFCv4AkJzdubCEhevlrVDT3ckiLjkkq+qj2JXMvjrTEgiliYNkQ0xZBms+zmxd9VNNTuUWaw8NxNNT0DDFCms7DTV5HhwlfPZ6RMLIcumZ4QRJW5qD0jHSz0WcUPaqfkADNL2S0999n9JLFZ5REPVG5XHTJ7ZdsdOyJSRVqw2d2YLm3DzxcJ6RoGymhvVT+MZ7cXjDuxDwSope/LNPKgMS1Z7QfH43NVaP2NOtYRkmXmFE1SBkGlm5rQCoaIt0lOF6EcpmKUTcw6yb0AjA1hHJ85rjzCv3V4ZOO+KJ0f/DToOATrT80L08lpplI4fWuaNbt0qOkpU+Z4mOaNw4mpr4KCZLx71JhpaRnfH/enY2PnlrcsBtHD2curEOSGjrOLRfF+7cMdag6OGBeccMi/boOSKwOyfmB6riPL8r5vGnSF+qSR1JvKORWRfpdAWiChMA6jpjFbzqfYY/ji/kAoIeRX3Tj6INPEyRMuvgosWtKu/E8lLWuU0g0OL0gW62luzefna9kWEv8uEg7lZQFSQcHYH7FbE1SOB1JosdfFsqHjMfvZHT09+Cm0CC5cdAYNO2sx1DnjwxShiGCFO3FjGRLkdPnwV9Q8sRzfuhCYX/2Nyfd/nzwEWkk+MNZCxUyAAtuw+mB485I75LGTH7TEzJqmgfRmJxhDE8ZgDWsJfHm0FNKHcOlI9mf031/3sc4GuOmbSLSkMR7mutTdPD/Wg2KwgTd+flgDtocjfNzLyqpn19hoftO35fyMU2XRMYtiTQV+pEdZsr5HfyEVJokgqQirj0lvRRldrBPtSSXju4eOOI50aekk7hkFPapkDsfskY3RIzRqj0t55OhPqmwT4XCXjK6x2vYZ1eWzpb2tnWJVbu0zLZukfq1UYUlFCyC1K9nBprxEYsjiSHhci23o9TRLIckFt3pX1b77K88LiOJ3fsfBrzsbNz5+yk+MRqbiqTtkX7YubQuYmirQbpx25DWYBvSGmxDWoNtSGuwV4j0BAPKNQq48uA4AAAAAElFTkSuQmCC"
+       y="210"
+       id="image36" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="286"
+       y="294.5332"
+       id="text38"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="45"
+       x="247"
+       y="314.21881"
+       id="text40">Azure</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="292"
+       y="314.21881"
+       id="text42"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="33"
+       x="296"
+       y="314.21881"
+       id="text44">SQL</text>
+  </g>
+  <g
+     id="elem_appService">
+    <rect
+       fill="#ffffff"
+       height="127.7344"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:none;stroke-width:0.5"
+       width="112"
+       x="439.5"
+       y="37"
+       id="rect47" />
+    <image
+       height="70"
+       width="70"
+       x="460.5"
+       xlink:href="data:image/png;base64,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"
+       y="47"
+       id="image49" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="493.5"
+       y="131.5332"
+       id="text51"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="31"
+       x="449.5"
+       y="151.2188"
+       id="text53">App</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="480.5"
+       y="151.2188"
+       id="text55"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="57"
+       x="484.5"
+       y="151.2188"
+       id="text57">Service</text>
+  </g>
+  <g
+     id="elem_powerBi">
+    <rect
+       fill="#ffffff"
+       height="127.7344"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:none;stroke-width:0.5"
+       width="145"
+       x="423"
+       y="200"
+       id="rect60" />
+    <image
+       height="70"
+       width="70"
+       x="460.5"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAACLklEQVR4Xu2bsUoDQRRF89f+Qn4hv5DaTrC1sbAWLEQsBA0WIhZCfDi4PN6dO5mZnd2ZyLscUkgczzERzaqbY49d3b/v716j7G5eEsgd5H0Pn9/2RLWNfcPyi/YEXWyIIve0h6p1SIr2lGIPVeuZhKL52EPVOiTtSp5jDHuoWp+k+dhD1TypxdCvAnuomie1GPpVYA9V86QWQ78K7KFqntRi6FeBPVTNk1oM/Sqwh6p50uzJqzf2eqkIe65as6Tbp4+ZoHcC++HV2iTJ5x4VSyl6rKyB2kBJ8oREdYY1UPMkMk+K40l0oyRJzz9JkoxwG77/onqU7fWzNVDrmRRKJjKTpGe4JP3I5CeFkglroLZ2EpbkJJmeIZLYI5NOwpJRktA+iknCjFGSUJ0RktA+ijVQWzAJpdNIEqozrIHaIkmom8NKSeL68PZVTVHeGkmoWAGqMzyJzpPKQXWGJ9F5UjmozvAkOk8qB9UZnkTnSeWgOsOT6IZI2v/94gzVGdZVrX/S1HP2SbrkPyRhzLkm7X//fhhLAvmXh3om6WsP6Z7Rk/BqEQYg4ybh1Ty0jzJckilZKOni8jHcWle1uUkinehpmzT1LJJ0smQC1RksSZdMWFe1miT0TjDzUYr2NEtC3RxQnaGTWEnLJHTNBNUZU9LJnllJqFgKqjNCEtpHsa5qqST0qwDVGZKE6gzrquZJ5aA6Y42k9b+WUD3KtvoHomOLKlRnZCbJ3Q7Jf2/8AbsqQoLJ7g85AAAAAElFTkSuQmCC"
+       y="210"
+       id="image62" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="493.5"
+       y="294.5332"
+       id="text64"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="49"
+       x="433"
+       y="314.21881"
+       id="text66">Power</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="482"
+       y="314.21881"
+       id="text68"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="16"
+       x="486"
+       y="314.21881"
+       id="text70">BI </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="502"
+       y="314.21881"
+       id="text72"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="52"
+       x="506"
+       y="314.21881"
+       id="text74">Report</text>
+  </g>
+  <g
+     id="elem_activeDirectory">
+    <rect
+       fill="#ffffff"
+       height="127.7344"
+       rx="2.5"
+       ry="2.5"
+       style="stroke:none;stroke-width:0.5"
+       width="190"
+       x="889"
+       y="109"
+       id="rect77" />
+    <image
+       height="70"
+       width="70"
+       x="949"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAADwUlEQVR4Xu2YTY4TMRCFc1qukCvkCrkCbNlZYssmC9ZIXowQCyRALBBigWRqphiPU88/5XI50qB5ehoxPZ1Qn1/3cyeH9N/pIA88f70gWRW//ZaHtukWSN9//Qkff7z+8FX+YY9ugUQ85PP7L/RT/m2DtiMxDyORL59+yjO8tReJAAQSefd9tRGp5CmRyHR3ybP9tAuJoih5BNJWqi1IXHF9JLJ8mZP8kao8VaRNte6PhDAtpPOeWndGQpI+0g4qTyRRcUqks3etuyFhxemRzq4F6IM05Gkhnd59ZjtSOSC1Km6IlHkylXxrkxyQcPqqWyTuVKtIOHrLQx72+ma1hNSvOGGcvuWwVut2pCmeKSTyymcQI5Km4laQyObNyoKkrDhhHHpoW61PI9l4ggnpZKKaRsJZlcZxNTbU+hzSbCWUxnE7Pr69y56lmkBa4QkzSCUPe2qz0iIZKk4YRx+SlNbXugrJXAmlkUHPw1bW+hhpnYevWMRQksxSjZFwRI0Jg01DkOkfyGNAIg9rfYCEs3YsMEq3kAxsdLKc8lo9JE3FtRhmkabw+rXeROrwKDHMSKWRh92p9TpSvK7szhWltBmpdOZ59SaSQ+MzSAWJK26RQdgFqTSzXWqbVR3JEYbtjsSOtU6vILF4DhzOZnek6XuJ5RiXI9IZvh6jX8sjT0iXh4rDjYwHwimn7IWElRAen0vykX9IzMOOtQt0kWodCcOhtxUn8PF7pFh7yvaNaxEJm43upfKEcrM6dJ5K8Y2SNS4zEj4o4FuVWzCNfYi1iEpjXIbawDk0jte3AP2/4stN8UjBQd1feJ2g2NW4cO6OZ5Gwo8P1xxOEOT0uwVPjxVFc/IJS+rj0SFgDIhyE4XDy+XJfKqsPbY5LiRTaHd3iOcEXYxIp7YlriIThxOuORpjjQxmUL2FVkFj9uEKtNnh05BkiYfhlRyNJNZysJlJS1EZUx9VC6nc0krBxCUr1kFgucVWRxGSaGsAlQI2RkiIuXDYRl0DCjh6Gg0vQkgqJNYwLr8McVzlxp6ORhI1L0NEEUjLFlR7WgpECFFQoOhpJOBxcqb7mkFhxvuXpSKejkYSNS6CRBSkp4gq12sjKHY0YOZzOy/syIrEMcQ1r4Djq6KGWkFjD2uD1zjWADNmajh7KASkp4srhIEb2YjhZPkisTlx08yBD9lRHD+WJlNpxtZAMHT2UMxIL46oi+YaTtQUpQcsLpJWOHmoXEivHVSIF0waq116k9BgXI7l09FDbkVj8mCeP7tGNkG6pF6TnoL8TjmjSutAa7AAAAABJRU5ErkJggg=="
+       y="119"
+       id="image79" />
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="14px"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="982"
+       y="203.5332"
+       id="text81"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="45"
+       x="899"
+       y="223.2188"
+       id="text83">Azure</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="944"
+       y="223.2188"
+       id="text85"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="47"
+       x="948"
+       y="223.2188"
+       id="text87">Active</text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="4"
+       x="995"
+       y="223.2188"
+       id="text89"> </text>
+    <text
+       fill="#000000"
+       font-family="sans-serif"
+       font-size="16px"
+       font-weight="bold"
+       lengthAdjust="spacing"
+       textLength="70"
+       x="999"
+       y="223.2188"
+       id="text91">Directory</text>
+  </g>
+  <rect
+     fill="#ffffff"
+     height="147.85941"
+     rx="2.5"
+     ry="2.5"
+     style="stroke:none;stroke-width:0.5"
+     width="201"
+     x="628"
+     y="190"
+     id="rect94" />
+  <image
+     height="70"
+     width="70"
+     x="693.5"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAACyklEQVR4Xu2aMW7cMBBFfclcIVfwFXyFLdM6bToBadO4cGsDLAIjRQAnSGEEKQKsZ/W1Yy4/OSIlecUVOHiFLWqoeSZFiYKv9puLq/DA5cebUvf4Z/ft583XH5ncPb0gkZtGQeLvv/9v75+jcIrU5n7902qNGJTkbO7FZhElbrJBoh2DktTH+TarKEkKco1oSh6qVHQHAiTWqxS9m22Q2JQONCXKt2lKJyBxg0oTnu85LxBNyaMpnYDEpnSgQEl2FpxvIynIrVRJ/uTyqlaEjtJuxjsed2tTsIhvKbarJAMq07QInQPcNIpenptsNNGIt+Xh+sv3InR54KZRkCglcpNNjlVT8mhKJyCxXiV5XHCrDRKb0oGmRPk2TekEJDalA02J8m3eW0n6lxOCwi5VaddvxtzxVRV7OTRdnlIg4wOxMqWPn10RvhK32iBR6tMjN/3On00Y5BqxvpIMzu39c2pwotjb9UHJ9TdiEe74B5NquNUGiVKZ5BbJ+KTEBqVVgqucQNjpWkpc2Uz8zgelOZ8mucnAWNNmovNwgeWBmwzEShYDLmgmWGBWU8IKsdRYdcfvxOsrgdLl2wcPX53StSjBqst7yPrwh/iKlFQsZ7jwDAxk4krSI1/eRlIWVIKVISbHeWRqV1KxjuZhl/FfaBGlD58eilAlbjIYVQrEgjXAoHYlFcv0uQClu/51Fj9nWlWtpCuEHskZrkqVguUuaLXFqlOKrt18Wpeeh3UpRX1SSimxUEl+58vbLKKUkhlV6mgehkr7/hMCV2AwU8mWyVFSsaTSecL1T88cn0wlgJ0lLnFuJXxC4eqjcOkG7rhdP7cSwvVjxQ7TlHR8EOsoIdhhglLY6bpKCGO4WMCnxu94GqkbjDWAi32+06hCCeHoBmOZ4LaJRkVKCN8q8AlPTUR1SntvHmbOtCBqVEJgHubMtCDqVZocG1R6BWR15HweDjEYAAAAAElFTkSuQmCC"
+     y="200"
+     id="image96" />
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="14px"
+     lengthAdjust="spacing"
+     textLength="4"
+     x="726.5"
+     y="284.5332"
+     id="text98"> </text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="31"
+     x="638"
+     y="304.21881"
+     id="text100"
+     transform="translate(26.900826)">App</text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="4"
+     x="669"
+     y="304.21881"
+     id="text102"> </text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="93"
+     x="673"
+     y="304.21881"
+     id="text104"
+     transform="translate(26.452479,0.89669422)">Registration</text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="4"
+     x="766"
+     y="304.21881"
+     id="text106"> </text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="49"
+     x="770"
+     y="304.21881"
+     id="text108"
+     transform="translate(-76.100889,20.732755)">Power</text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="16"
+     x="720.5"
+     y="324.34381"
+     id="text110"
+     transform="translate(24.088758,1.0054815)">BI</text>
+  <rect
+     fill="#ffffff"
+     height="147.85941"
+     rx="2.5"
+     ry="2.5"
+     style="stroke:none;stroke-width:0.5"
+     width="183"
+     x="637"
+     y="7"
+     id="rect113" />
+  <image
+     height="70"
+     width="70"
+     x="693.5"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAIAAAD+THXTAAACyklEQVR4Xu2aMW7cMBBFfclcIVfwFXyFLdM6bToBadO4cGsDLAIjRQAnSGEEKQKsZ/W1Yy4/OSIlecUVOHiFLWqoeSZFiYKv9puLq/DA5cebUvf4Z/ft583XH5ncPb0gkZtGQeLvv/9v75+jcIrU5n7902qNGJTkbO7FZhElbrJBoh2DktTH+TarKEkKco1oSh6qVHQHAiTWqxS9m22Q2JQONCXKt2lKJyBxg0oTnu85LxBNyaMpnYDEpnSgQEl2FpxvIynIrVRJ/uTyqlaEjtJuxjsed2tTsIhvKbarJAMq07QInQPcNIpenptsNNGIt+Xh+sv3InR54KZRkCglcpNNjlVT8mhKJyCxXiV5XHCrDRKb0oGmRPk2TekEJDalA02J8m3eW0n6lxOCwi5VaddvxtzxVRV7OTRdnlIg4wOxMqWPn10RvhK32iBR6tMjN/3On00Y5BqxvpIMzu39c2pwotjb9UHJ9TdiEe74B5NquNUGiVKZ5BbJ+KTEBqVVgqucQNjpWkpc2Uz8zgelOZ8mucnAWNNmovNwgeWBmwzEShYDLmgmWGBWU8IKsdRYdcfvxOsrgdLl2wcPX53StSjBqst7yPrwh/iKlFQsZ7jwDAxk4krSI1/eRlIWVIKVISbHeWRqV1KxjuZhl/FfaBGlD58eilAlbjIYVQrEgjXAoHYlFcv0uQClu/51Fj9nWlWtpCuEHskZrkqVguUuaLXFqlOKrt18Wpeeh3UpRX1SSimxUEl+58vbLKKUkhlV6mgehkr7/hMCV2AwU8mWyVFSsaTSecL1T88cn0wlgJ0lLnFuJXxC4eqjcOkG7rhdP7cSwvVjxQ7TlHR8EOsoIdhhglLY6bpKCGO4WMCnxu94GqkbjDWAi32+06hCCeHoBmOZ4LaJRkVKCN8q8AlPTUR1SntvHmbOtCBqVEJgHubMtCDqVZocG1R6BWR15HweDjEYAAAAAElFTkSuQmCC"
+     y="17"
+     id="image115" />
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="14px"
+     lengthAdjust="spacing"
+     textLength="4"
+     x="726.5"
+     y="101.5332"
+     id="text117"> </text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="31"
+     x="647"
+     y="121.2188"
+     id="text119"
+     transform="translate(20.289874,-1.2681171)">App</text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="4"
+     x="678"
+     y="121.2188"
+     id="text121"> </text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="93"
+     x="682"
+     y="121.2188"
+     id="text123"
+     transform="translate(18.070669)">Registration</text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="4"
+     x="775"
+     y="121.2188"
+     id="text125"> </text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="31"
+     x="779"
+     y="121.2188"
+     id="text127"
+     transform="translate(-96.693932,20.289874)">App</text>
+  <text
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="16px"
+     font-weight="bold"
+     lengthAdjust="spacing"
+     textLength="57"
+     x="700"
+     y="141.3438"
+     id="text129"
+     transform="translate(15.643222,0.31702928)">Service</text>
+  <g
+     id="link_resourceGroup_appServicePlan">
+    <path
+       d="m 159.25,151.85 c 17.55,-6.98 36.11,-14.37 53.49,-21.29"
+       fill="none"
+       id="resourceGroup-backto-appServicePlan"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="159.3824,151.793 161.6107,146.5936 154.74,153.65 164.5819,154.0214 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon133" />
+  </g>
+  <g
+     id="link_resourceGroup_azureSql">
+    <path
+       d="m 159.18,213.74 c 25.92,10.19 54.07,21.26 77.34,30.41"
+       fill="none"
+       id="resourceGroup-backto-azureSql"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="159.4041,213.8274 164.5893,211.566 154.75,212 161.6655,219.0126 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon137" />
+  </g>
+  <g
+     id="link_appServicePlan_appService">
+    <path
+       d="m 369.99,101 c 23.22,0 48,0 69.29,0"
+       fill="none"
+       id="appServicePlan-backto-appService"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="369.99,101 373.99,97 364.99,101 373.99,105 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon141" />
+  </g>
+  <g
+     id="link_azureSql_powerBi">
+    <path
+       d="m 345.55,264 c 23.82,0 51.82,0 77.08,0"
+       fill="none"
+       id="azureSql-backto-powerBi"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="345.78,264 349.78,260 340.78,264 349.78,268 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon145" />
+  </g>
+  <g
+     id="link_appService_powerBi">
+    <path
+       d="m 495.5,165.38 c 0,9.29 0,18.59 0,27.88"
+       fill="none"
+       id="appService-to-powerBi"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="495.5,193.18 491.5,189.18 495.5,198.18 499.5,189.18 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon149" />
+  </g>
+  <g
+     id="link_azureSql_appService">
+    <path
+       d="m 344.31,220.13 c 29.46,-23.37 65.59,-52.02 95.02,-75.37"
+       fill="none"
+       id="azureSql-backto-appService"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="344.3796,220.0858 345.032,214.4666 340.46,223.19 349.9988,220.7381 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon153" />
+  </g>
+  <g
+     id="link_powerBi_appRegistrationPowerBi">
+    <path
+       d="m 568.32,264 c 16.9,0 35.26,0 53.3,0"
+       fill="none"
+       id="powerBi-to-appRegistrationPowerBi"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="621.21,264 617.21,268 626.21,264 617.21,260 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon157" />
+  </g>
+  <g
+     id="link_appService_appRegistrationPowerBi">
+    <path
+       d="m 551.83,140.04 c 21.31,15.04 46.41,32.75 70.86,50.01"
+       fill="none"
+       id="appService-to-appRegistrationPowerBi"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="622.576,189.9655 617.0011,190.9251 626.66,192.85 621.6163,184.3906 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon161" />
+  </g>
+  <g
+     id="link_appService_appRegistrationAppService">
+    <path
+       d="m 551.83,96.21 c 23.48,-2.03 51.56,-4.46 78.31,-6.78"
+       fill="none"
+       id="appService-to-appRegistrationAppService"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="630.0484,89.4382 626.4056,93.7661 635.03,89.01 625.7205,85.7955 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon165" />
+  </g>
+  <g
+     id="link_appRegistrationPowerBi_activeDirectory">
+    <path
+       d="M 829.33,228.17 C 846.88,221.86 865.15,215.3 882.72,209"
+       fill="none"
+       id="appRegistrationPowerBi-to-activeDirectory"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="882.5136,209.068 880.0988,214.1836 887.22,207.38 877.398,206.6533 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon169" />
+  </g>
+  <g
+     id="link_appRegistrationAppService_activeDirectory">
+    <path
+       d="m 820.3,113.95 c 20.17,7.32 41.67,15.13 62.2,22.58"
+       fill="none"
+       id="appRegistrationAppService-to-activeDirectory"
+       style="stroke:#666666;stroke-width:1" />
+    <polygon
+       fill="#666666"
+       points="882.4281,136.5093 877.3061,138.9103 887.13,138.21 880.0272,131.3873 "
+       style="stroke:#666666;stroke-width:1"
+       id="polygon173" />
+  </g>
+</svg>
